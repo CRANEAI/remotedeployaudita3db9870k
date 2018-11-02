@@ -1,0 +1,6 @@
+
+        rootProject.name = 'remote_deploy_audit'
+
+        include ':app'
+        /* add slim_filename application modules here */
+        
